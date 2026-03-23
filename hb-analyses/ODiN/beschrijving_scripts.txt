@@ -1,0 +1,44 @@
+0_odin_data_inlezen.R
+
+1_modal_split_onderwijs_totaal
+output: piechart met modal split voor onderwijs
+
+2_voor_na_transport_trein_totaal
+output: barchart met verdeling voor/natransport trein voor onderwijs
+
+3_loopafstanden
+output: histogram met loopafstanden voor/natransport trein voor onderwijs
+
+4_voor_na_transport_afstanden_onderwijs
+output: histogram met loopafstanden voor/natransport trein voor onderwijs
+
+5_voor_na_transport_binning
+output: modal split voor/natransport trein per afstandsbin voor onderwijs
+
+06_voor_na_transport_functies
+output: geschatte functie voor/natransport trein voor onderwijs naar afstand station-onderwijs (opgegeven afstand voor-natransport in ODiN)
+
+07_aantallen_per_pc4.R
+output: csv's met per postcode met onderwijslocatie aantallen vanuit ODiN data (o.a. aantal verplaatsingen, aantal verplaatsingen trein, aantal verplaatsingen trein_voet) 
+
+08a_inlezen_odin_csv
+inlezen output van script 07 in in de postgres database
+(database met Spectrum data met onderwijsinstellingen, ns-stations, aantal in-uitstappers per station)
+
+08b_afstanden_onderwijs
+voor iedere postcode met onderwijsinstelling(en) berekenen van hemelsbrede afstand tussen onderwijs en station (voor niet trein-trips is dit niet bekend in ODiN)
+
+08c_postgres_to_csv
+wegschrijven berekende afstanden naar csv
+
+09_modal_split_station_onderwijs_binning.R hier worden berekende afstanden ingelezen)
+output: modal split per afstandsbin voor onderwijs
+
+10_modal_split_functie_gaussian.R
+output: geschatte functie aandeel trein voor onderwijs naar afstand station-onderwijs
+
+11_verifieren_functie_gaussian.R
+output: verschillende scatterplots van treinaandeel per onderwijslocatie tegen de (gewogen) afstand tot het station, met de Gaussian functie en kleuring van de punten op onderwijstype aantal waarnemingen of aantal inuitstappers
+
+
+

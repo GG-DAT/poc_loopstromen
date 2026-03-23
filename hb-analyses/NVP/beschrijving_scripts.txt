@@ -1,0 +1,15 @@
+00_nvp_analyse_hb_stromen.sql 
+per type POI ophalen van NVP ritten van/naar de POI obv buffer rondom POI, bepalen afstand tot dichtsbijzijnde station en wegschrijven relevante informatie
+-> opslaan in csv
+
+01_analyse_aandeel_trein_incl_functie_cor.R
+inlezen csv 
+- grafiek modal split per POI (geordend op afstand tot station)
+- scatterplot afstand tot station vs treinaandeel
+- modal split per afstandsklasse 
+- functie fit: treinaandeel als functie van afstand
+
+02_analyse_voorna_lopen_incl_functie
+inlezen csv
+- modal split voor-/natransport per afstandsklasse 
+- functie-fit: fractie lopen als functie van afstand (voor-/natransport)

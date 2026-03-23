@@ -1,0 +1,343 @@
+Gemeente2024;Gemeentenaam2024
+0014;Groningen
+0034;Almere
+0037;Stadskanaal
+0047;Veendam
+0050;Zeewolde
+0059;Achtkarspelen
+0060;Ameland
+0072;Harlingen
+0074;Heerenveen
+0080;Leeuwarden
+0085;Ooststellingwerf
+0086;Opsterland
+0088;Schiermonnikoog
+0090;Smallingerland
+0093;Terschelling
+0096;Vlieland
+0098;Weststellingwerf
+0106;Assen
+0109;Coevorden
+0114;Emmen
+0118;Hoogeveen
+0119;Meppel
+0141;Almelo
+0147;Borne
+0148;Dalfsen
+0150;Deventer
+0153;Enschede
+0158;Haaksbergen
+0160;Hardenberg
+0163;Hellendoorn
+0164;Hengelo (O.)
+0166;Kampen
+0168;Losser
+0171;Noordoostpolder
+0173;Oldenzaal
+0175;Ommen
+0177;Raalte
+0180;Staphorst
+0183;Tubbergen
+0184;Urk
+0189;Wierden
+0193;Zwolle
+0197;Aalten
+0200;Apeldoorn
+0202;Arnhem
+0203;Barneveld
+0209;Beuningen
+0213;Brummen
+0214;Buren
+0216;Culemborg
+0221;Doesburg
+0222;Doetinchem
+0225;Druten
+0226;Duiven
+0228;Ede
+0230;Elburg
+0232;Epe
+0233;Ermelo
+0243;Harderwijk
+0244;Hattem
+0246;Heerde
+0252;Heumen
+0262;Lochem
+0263;Maasdriel
+0267;Nijkerk
+0268;Nijmegen
+0269;Oldebroek
+0273;Putten
+0274;Renkum
+0275;Rheden
+0277;Rozendaal
+0279;Scherpenzeel
+0281;Tiel
+0285;Voorst
+0289;Wageningen
+0293;Westervoort
+0294;Winterswijk
+0296;Wijchen
+0297;Zaltbommel
+0299;Zevenaar
+0301;Zutphen
+0302;Nunspeet
+0303;Dronten
+0307;Amersfoort
+0308;Baarn
+0310;De Bilt
+0312;Bunnik
+0313;Bunschoten
+0317;Eemnes
+0321;Houten
+0327;Leusden
+0331;Lopik
+0335;Montfoort
+0339;Renswoude
+0340;Rhenen
+0342;Soest
+0344;Utrecht
+0345;Veenendaal
+0351;Woudenberg
+0352;Wijk bij Duurstede
+0353;IJsselstein
+0355;Zeist
+0356;Nieuwegein
+0358;Aalsmeer
+0361;Alkmaar
+0362;Amstelveen
+0363;Amsterdam
+0373;Bergen (NH.)
+0375;Beverwijk
+0376;Blaricum
+0377;Bloemendaal
+0383;Castricum
+0384;Diemen
+0385;Edam-Volendam
+0388;Enkhuizen
+0392;Haarlem
+0394;Haarlemmermeer
+0396;Heemskerk
+0397;Heemstede
+0399;Heiloo
+0400;Den Helder
+0402;Hilversum
+0405;Hoorn
+0406;Huizen
+0415;Landsmeer
+0417;Laren (NH.)
+0420;Medemblik
+0431;Oostzaan
+0432;Opmeer
+0437;Ouder-Amstel
+0439;Purmerend
+0441;Schagen
+0448;Texel
+0450;Uitgeest
+0451;Uithoorn
+0453;Velsen
+0473;Zandvoort
+0479;Zaanstad
+0482;Alblasserdam
+0484;Alphen aan den Rijn
+0489;Barendrecht
+0498;Drechterland
+0502;Capelle aan den IJssel
+0503;Delft
+0505;Dordrecht
+0512;Gorinchem
+0513;Gouda
+0518;'s-Gravenhage
+0523;Hardinxveld-Giessendam
+0531;Hendrik-Ido-Ambacht
+0532;Stede Broec
+0534;Hillegom
+0537;Katwijk
+0542;Krimpen aan den IJssel
+0546;Leiden
+0547;Leiderdorp
+0553;Lisse
+0556;Maassluis
+0569;Nieuwkoop
+0575;Noordwijk
+0579;Oegstgeest
+0589;Oudewater
+0590;Papendrecht
+0597;Ridderkerk
+0599;Rotterdam
+0603;Rijswijk (ZH.)
+0606;Schiedam
+0610;Sliedrecht
+0613;Albrandswaard
+0622;Vlaardingen
+0626;Voorschoten
+0627;Waddinxveen
+0629;Wassenaar
+0632;Woerden
+0637;Zoetermeer
+0638;Zoeterwoude
+0642;Zwijndrecht
+0654;Borsele
+0664;Goes
+0668;West Maas en Waal
+0677;Hulst
+0678;Kapelle
+0687;Middelburg (Z.)
+0703;Reimerswaal
+0715;Terneuzen
+0716;Tholen
+0717;Veere
+0718;Vlissingen
+0736;De Ronde Venen
+0737;Tytsjerksteradiel
+0743;Asten
+0744;Baarle-Nassau
+0748;Bergen op Zoom
+0753;Best
+0755;Boekel
+0757;Boxtel
+0758;Breda
+0762;Deurne
+0765;Pekela
+0766;Dongen
+0770;Eersel
+0772;Eindhoven
+0777;Etten-Leur
+0779;Geertruidenberg
+0784;Gilze en Rijen
+0785;Goirle
+0794;Helmond
+0796;'s-Hertogenbosch
+0797;Heusden
+0798;Hilvarenbeek
+0809;Loon op Zand
+0820;Nuenen, Gerwen en Nederwetten
+0823;Oirschot
+0824;Oisterwijk
+0826;Oosterhout
+0828;Oss
+0840;Rucphen
+0845;Sint-Michielsgestel
+0847;Someren
+0848;Son en Breugel
+0851;Steenbergen
+0852;Waterland
+0855;Tilburg
+0858;Valkenswaard
+0861;Veldhoven
+0865;Vught
+0866;Waalre
+0867;Waalwijk
+0873;Woensdrecht
+0879;Zundert
+0880;Wormerland
+0882;Landgraaf
+0888;Beek (L.)
+0889;Beesel
+0893;Bergen (L.)
+0899;Brunssum
+0907;Gennep
+0917;Heerlen
+0928;Kerkrade
+0935;Maastricht
+0938;Meerssen
+0944;Mook en Middelaar
+0946;Nederweert
+0957;Roermond
+0965;Simpelveld
+0971;Stein (L.)
+0981;Vaals
+0983;Venlo
+0984;Venray
+0986;Voerendaal
+0988;Weert
+0994;Valkenburg aan de Geul
+0995;Lelystad
+1507;Horst aan de Maas
+1509;Oude IJsselstreek
+1525;Teylingen
+1581;Utrechtse Heuvelrug
+1586;Oost Gelre
+1598;Koggenland
+1621;Lansingerland
+1640;Leudal
+1641;Maasgouw
+1652;Gemert-Bakel
+1655;Halderberge
+1658;Heeze-Leende
+1659;Laarbeek
+1667;Reusel-De Mierden
+1669;Roerdalen
+1674;Roosendaal
+1676;Schouwen-Duiveland
+1680;Aa en Hunze
+1681;Borger-Odoorn
+1690;De Wolden
+1695;Noord-Beveland
+1696;Wijdemeren
+1699;Noordenveld
+1700;Twenterand
+1701;Westerveld
+1705;Lingewaard
+1706;Cranendonck
+1708;Steenwijkerland
+1709;Moerdijk
+1711;Echt-Susteren
+1714;Sluis
+1719;Drimmelen
+1721;Bernheze
+1723;Alphen-Chaam
+1724;Bergeijk
+1728;Bladel
+1729;Gulpen-Wittem
+1730;Tynaarlo
+1731;Midden-Drenthe
+1734;Overbetuwe
+1735;Hof van Twente
+1740;Neder-Betuwe
+1742;Rijssen-Holten
+1771;Geldrop-Mierlo
+1773;Olst-Wijhe
+1774;Dinkelland
+1783;Westland
+1842;Midden-Delfland
+1859;Berkelland
+1876;Bronckhorst
+1883;Sittard-Geleen
+1884;Kaag en Braassem
+1891;Dantumadiel
+1892;Zuidplas
+1894;Peel en Maas
+1895;Oldambt
+1896;Zwartewaterland
+1900;Súdwest-Fryslân
+1901;Bodegraven-Reeuwijk
+1903;Eijsden-Margraten
+1904;Stichtse Vecht
+1911;Hollands Kroon
+1916;Leidschendam-Voorburg
+1924;Goeree-Overflakkee
+1926;Pijnacker-Nootdorp
+1930;Nissewaard
+1931;Krimpenerwaard
+1940;De Fryske Marren
+1942;Gooise Meren
+1945;Berg en Dal
+1948;Meierijstad
+1949;Waadhoeke
+1950;Westerwolde
+1952;Midden-Groningen
+1954;Beekdaelen
+1955;Montferland
+1959;Altena
+1960;West Betuwe
+1961;Vijfheerenlanden
+1963;Hoeksche Waard
+1966;Het Hogeland
+1969;Westerkwartier
+1970;Noardeast-Fryslân
+1978;Molenlanden
+1979;Eemsdelta
+1980;Dijk en Waard
+1982;Land van Cuijk
+1991;Maashorst
+1992;Voorne aan Zee
